@@ -3,4 +3,5 @@ I‘m **Carlitos Castro**, a software engineer from León, Gto México. I curren
 ## 🌐 Elsewhere
 
 🐦 [Twitter](https://twitter.com/carlitos)  
-💼 [LinkedIn](https://www.linkedin.com/in/carlosmcastro/)
+💼 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-Carlitos%20Castro-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/carlosmcastro/)
