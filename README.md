@@ -1,4 +1,4 @@
-I‘m **Carlitos Castro**, a software engineer from León, Gto México. I currently work at [Reservamos](https://reservamossaas.com), as a engineer monkey.
+I‘m **Carlitos Castro**, a software engineer from León, Gto México. I'm proud to be part of [Reservamos](https://reservamossaas.com), as a engineer monkey.
 
 ## 🌐 Elsewhere
 
